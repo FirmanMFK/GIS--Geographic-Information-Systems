@@ -1,6 +1,6 @@
 # GIS--Geographic-Information-Systems
 <p align="center">
-  <img src="./img/logo-commu.png">
+  <img src="./img/gambar.png">
 </p>
 
 # Latar Belakang Masalah :
