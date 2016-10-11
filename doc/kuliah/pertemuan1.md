@@ -1,7 +1,4 @@
 # GIS--Geographic-Information-Systems
-<p align="center">
-  <img src="./img/gambar.png">
-</p>
 
 # Latar Belakang Masalah :
 1). Apa itu Sistem Informasi Geografis?
@@ -18,6 +15,9 @@
 
 * Koordinat ialah sekumpulan aturan yang menentukan aturan yang menentukan bagaimana koordinat- koordinat yaitu latitude dan longitude yang bersangkutan merepresentasikan titik titik atau obyek pada suatu peta
 
+<p align="center">
+  <img src="../../img/gambar.png">
+</p>
 Jenis Koordinat dibagi 2 yaitu Latitude dan Longitude Latitude (Lingkar) Adalah garis yang digunakan untuk menentukan dimana lokasi di Bumi terhadap gariskhatulistiwa (utara atau selatan) , dari 0 derajat hingga 90 derajat.
 
 Longitude (Bujur) Adalah garis yang digunakan untuk menentukan dimana lokasi di Bumi terhadap gariskhatulistiwa (barat atau timur) , dari 0 derajat hingga 180 derajat.
