@@ -39,7 +39,7 @@ Terapkan metode lebih banyak praktik dibandingkan teori dan bagaimana cara peman
 
  Link Youtube : https://www.youtube.com/watch?v=szASpQMigmE&feature=youtu.be
 
- Sumber : http://ariv.lecturer.pens.ac.id/Konsep%20Teknologi%20Informasi/KonTek%20-%20%20Introduction%20GIS.pdf
+ Referensi : http://ariv.lecturer.pens.ac.id/Konsep%20Teknologi%20Informasi/KonTek%20-%20%20Introduction%20GIS.pdf
  http://arna.lecturer.pens.ac.id/KTI/Konsep%20Teknologi%20-%20GIS%20-%20ver2.pdf
 
  Scan plagiarisme via smallseotools : https://drive.google.com/open?id=0BzrCjHLyhoFsVjBqUUNHQWJ2RVE
