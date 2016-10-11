@@ -19,3 +19,6 @@ Sistem koordinat global menganut pembagian wilayah dunia menjadi 4 bidang
 4. Lintang Selatan (0-45)  sering disingkat dengan LS atau South(S)
 Bujur  sering juga disebut dengan Longitude, Lintang disebut dengan Latitude
  Titik (0,0) terletak di Greenwich
+
+ * Kesimpulan
+ Pertemuan pertama ini dapat disimpulkan yaitu mengetahui tata cara perhitungan koordinat dengan latitude dan longitude hingga letak posisi koordinat (0,0).
