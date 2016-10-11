@@ -1,4 +1,15 @@
 # GIS--Geographic-Information-Systems
+<p align="center">
+  <img src="./img/logo-commu.png">
+</p>
+
+# Latar Belakang Masalah :
+1). Apa itu Sistem Informasi Geografis?
+2). Apa itu Koordinat?
+3). Apa itu Latitude dan Longitude?
+4). Dimana Letak Posisi (0,0) ?
+5). Apa manfaat menggunakan GIS?
+
  Geographic Information Systems (GIS) adalah teknologi baru yang mengkombinasikan manajememen basis data
  dengan peta digital dan grafis
  Geographic Information System didefinisikan sebagai :     
@@ -22,6 +33,9 @@ Bujur  sering juga disebut dengan Longitude, Lintang disebut dengan Latitude
 
  * Kesimpulan
  Pertemuan pertama ini dapat disimpulkan yaitu mengetahui tata cara perhitungan koordinat dengan latitude dan longitude hingga letak posisi koordinat (0,0).
+
+* Saran
+Terapkan metode lebih banyak praktik dibandingkan teori dan bagaimana cara pemanfaatan GIS di berbagai macam devices dan teknologi pada zaman sekarang ini
 
  Link Youtube : https://www.youtube.com/watch?v=szASpQMigmE&feature=youtu.be
 
