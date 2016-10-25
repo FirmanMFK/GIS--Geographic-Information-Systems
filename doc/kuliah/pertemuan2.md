@@ -34,11 +34,11 @@ Kelas : 3B
 Prodi : D4 Teknik Informatika
 Mata Kuliah : Sistem Informasi Geografis
 
-Link Github : https://github.com/FirmanMFK/GIS--Geographic-Information-Systems
-Link Youtube :https://www.youtube.com/watch?v=y2V_jIoc-ts&feature=youtu.be
+* Link Github : https://github.com/FirmanMFK/GIS--Geographic-Information-Systems
+* Link Youtube :https://www.youtube.com/watch?v=y2V_jIoc-ts&feature=youtu.be
 Referensi :
-www.naturalearthdata.com
-http://www.slideshare.net/aryapinandita/peran-data-dan-informasi-geospasial-dalam-penataan-ruang
+* www.naturalearthdata.com
+* http://www.slideshare.net/aryapinandita/peran-data-dan-informasi-geospasial-dalam-penataan-ruang
 
 Link Plagiarism Via Duplichecker : https://drive.google.com/file/d/0BzrCjHLyhoFsd1E4XzhNVlRnUWM/view?usp=sharing
 
