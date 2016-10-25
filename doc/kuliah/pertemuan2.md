@@ -29,10 +29,15 @@ jadi di pertemuan kedua ini dapat disimpulkan geospasial menunjukan suatu lokasi
 Sering Praktek langsung dan membagikan ilmu tentang Python. 
 
 Nama : Muhammad Firman Kahfi
+<br>
 NPM : 1144015
+<br>
 Kelas : 3B
+<br>
 Prodi : D4 Teknik Informatika
+<br>
 Mata Kuliah : Sistem Informasi Geografis
+<br>
 
 * Link Github : https://github.com/FirmanMFK/GIS--Geographic-Information-Systems
 * Link Youtube :https://www.youtube.com/watch?v=y2V_jIoc-ts&feature=youtu.be
