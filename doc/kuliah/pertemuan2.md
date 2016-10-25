@@ -41,7 +41,8 @@ Mata Kuliah : Sistem Informasi Geografis
 
 * Link Github : https://github.com/FirmanMFK/GIS--Geographic-Information-Systems
 * Link Youtube :https://www.youtube.com/watch?v=y2V_jIoc-ts&feature=youtu.be
-Referensi :
+
+## Referensi :
 * www.naturalearthdata.com
 * http://www.slideshare.net/aryapinandita/peran-data-dan-informasi-geospasial-dalam-penataan-ruang
 
