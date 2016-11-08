@@ -99,7 +99,7 @@ I = i+1
 ## Menampilkan jumlah record melalui terminal
 
 <p align="center">
-  <img src="../../img/praktikum 4/1.png">
+  <img src="../../img/praktikum4/1.png">
 </p> 
 
 
