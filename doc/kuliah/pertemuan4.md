@@ -108,6 +108,9 @@ Masukan Kode didalam tugas.py
   <img src="../../img/praktikum4/tiga.png">
 </p>
 
+Membuat  Method Select, Where Negara Indonesia Output Data Record Negara Indonesia
 
-
+<p align="center">
+  <img src="../../img/praktikum4/dua.png">
+</p>
 
