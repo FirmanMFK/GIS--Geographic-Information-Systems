@@ -3,7 +3,7 @@
 ##  RETRIVE DATA GEOSPASIAL
 
 <p align="center">
-  <img src="../../img/Python.png">
+  <img src="../../img/Python-Gis.jpg">
 </p> 
 
 LATAR BELAKANG MASALAH
