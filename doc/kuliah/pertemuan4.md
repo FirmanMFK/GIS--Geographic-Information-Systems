@@ -99,13 +99,13 @@ I = i+1
 Menampilkan jumlah record melalui terminal
 
 <p align="center">
-  <img src="../../img/praktikum4/1.png">
+  <img src="../../img/1.png">
 </p> 
 
 Masukan Kode didalam tugas.py
 
 <p align="center">
-  <img src="../../img/praktikum4/3.png">
+  <img src="../../img/3.png">
 </p>
 
 
