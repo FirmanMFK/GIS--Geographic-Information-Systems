@@ -94,4 +94,12 @@ Print a :
 I = i+1
 
 
-## Praktikum
+# Praktikum
+
+## Menampilkan jumlah record melalui terminal
+
+<p align="center">
+  <img src="../../img/praktikum 4/1.png">
+</p> 
+
+
