@@ -99,7 +99,7 @@ I = i+1
 Menampilkan jumlah record melalui terminal
 
 <p align="center">
-  <img src="../../img/1.png">
+  <img src="../../img/Python-Gis.jpg">
 </p> 
 
 Masukan Kode didalam tugas.py
