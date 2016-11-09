@@ -9,4 +9,5 @@ Repository Sistem Informasi Geografis
 ## Tugas GIS
 * Pertemuan 1 : https://github.com/FirmanMFK/GIS--Geographic-Information-Systems/blob/master/doc/kuliah/pertemuan1.md
 * Pertemuan 2 : https://github.com/FirmanMFK/GIS--Geographic-Information-Systems/blob/master/doc/kuliah/pertemuan2.md 
-* Pertemuan 3 : https://github.com/FirmanMFK/GIS--Geographic-Information-Systems/blob/master/doc/kuliah/pertemuan3.md 
+* Pertemuan 3 : https://github.com/FirmanMFK/GIS--Geographic-Information-Systems/blob/master/doc/kuliah/pertemuan3.md
+* Pertemuan 4 : https://github.com/FirmanMFK/GIS--Geographic-Information-Systems/blob/master/doc/kuliah/pertemuan4.md 
