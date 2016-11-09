@@ -139,3 +139,7 @@ Mata Kuliah : Sistem Informasi Geografis
 * https://www.python.org/doc/
 
 ## Scan Plagiarism
+
+Via Smallseotools : https://drive.google.com/file/d/0BzrCjHLyhoFsd21sYThUMFFjME0/view?usp=sharing
+<br>
+Via Searchenginereports : https://drive.google.com/file/d/0BzrCjHLyhoFsVk0zUkQtR3NnNWM/view?usp=sharing
