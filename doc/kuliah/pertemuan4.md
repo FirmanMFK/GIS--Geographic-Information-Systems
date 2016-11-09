@@ -114,3 +114,28 @@ Membuat  Method Select, Where Negara Indonesia Output Data Record Negara Indones
   <img src="../../img/praktikum4/dua.png">
 </p>
 
+## Kesimpulan 
+
+Dengan membuat class di python yang sesuai dengan file.py akan membuat  kita bisa melihat record data.
+Dengan perintah perintah yang sudah dipraktekan kita menjadi lebih tahu hal hal yang baru di Python. 
+
+## Saran
+Pengembangan GIS untuk User dan bagaimana penerapannya dgn bahasa python harus dipraktekan.
+
+Nama : Muhammad Firman Kahfi
+<br>
+NPM : 1144015
+<br>
+Kelas : 3B
+<br>
+Prodi : D4 Teknik Informatika
+<br>
+Mata Kuliah : Sistem Informasi Geografis
+<br>
+
+* Link Github : https://github.com/FirmanMFK/GIS--Geographic-Information-Systems
+
+* https://wiki.python.org/moin/BeginnersGuide
+* https://www.python.org/doc/
+
+## Scan Plagiarism
