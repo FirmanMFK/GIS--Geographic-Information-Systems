@@ -11,3 +11,4 @@ Repository Sistem Informasi Geografis
 * Pertemuan 2 : https://github.com/FirmanMFK/GIS--Geographic-Information-Systems/blob/master/doc/kuliah/pertemuan2.md 
 * Pertemuan 3 : https://github.com/FirmanMFK/GIS--Geographic-Information-Systems/blob/master/doc/kuliah/pertemuan3.md
 * Pertemuan 4 : https://github.com/FirmanMFK/GIS--Geographic-Information-Systems/blob/master/doc/kuliah/pertemuan4.md 
+* Pertemuan 5 : https://github.com/FirmanMFK/GIS--Geographic-Information-Systems/blob/master/doc/kuliah/pertemuan5.md
