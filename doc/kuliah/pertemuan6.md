@@ -53,7 +53,26 @@ Instalasi MapProxy
 
 di Halaman.download 
 unduh peta indonesia sudah termasuk mapfile,shp & mapproxy
-kambing.ui.ac.id/iso/Centos
+
 atau di kambing.ui.ac.id/iso/centos 
 
 demo via map.vas.web.id/demo
+
+Nama : Muhammad Firman Kahfi
+<br>
+NPM : 1144015
+<br>
+Kelas : 3B
+<br>
+Prodi : D4 Teknik Informatika
+<br>
+Mata Kuliah : Sistem Informasi Geografis
+<br>
+
+* Link Github : https://github.com/FirmanMFK/GIS--Geographic-Information-Systems
+* kambing.ui.ac.id/iso/Centos
+
+## Scan Plagiarism
+
+1.https://drive.google.com/file/d/0BzrCjHLyhoFsQllMSS00VTVIdFE/view?usp=sharing
+2.https://drive.google.com/file/d/0BzrCjHLyhoFseUFHSUFwdjJPRlk/view?usp=sharing
