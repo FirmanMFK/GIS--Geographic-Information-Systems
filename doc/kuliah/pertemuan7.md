@@ -47,6 +47,8 @@ Sebaiknya kita sedikit mempelajari lebih dalam tentang map server dan map proxy 
 * Prodi : D4 Teknik Informatika
 * Mata Kuliah : Sistem Informasi Geografis
 
+Link Github : https://github.com/FirmanMFK/GIS--Geographic-Information-Systems
+
 Referensi : 
 1. https://id.wikipedia.org/wiki/MapServer
 
