@@ -42,6 +42,13 @@ Terapkan metode lebih banyak praktik dibandingkan teori dan bagaimana cara peman
  Referensi : http://ariv.lecturer.pens.ac.id/Konsep%20Teknologi%20Informasi/KonTek%20-%20%20Introduction%20GIS.pdf
  http://arna.lecturer.pens.ac.id/KTI/Konsep%20Teknologi%20-%20GIS%20-%20ver2.pdf
 
+Nama : Muhammad Firman Kahfi
+NPM : 1144015
+Kelas : 3B
+Prodi : D4 Teknik Informatika
+Mata Kuliah : Sistem Informasi Geografis
+Link Github : https://github.com/FirmanMFK/GIS--Geographic-Information-Systems
+
  Scan plagiarisme via smallseotools : https://drive.google.com/open?id=0BzrCjHLyhoFsVjBqUUNHQWJ2RVE
 
  Scan Plagiarisme via duplichecker :
